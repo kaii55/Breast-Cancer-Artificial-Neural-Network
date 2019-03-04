@@ -1,2 +1,2 @@
-# Cancer-Prediciton-Demo-
+# Cancer-Prediciton
 Malignant cell prediction
